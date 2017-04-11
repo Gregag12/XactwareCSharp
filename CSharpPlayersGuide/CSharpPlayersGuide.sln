@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cylinder_Program", "Basic_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More_Math", "More_Math\More_Math.csproj", "{729C24AB-ABE9-4FA6-9388-C451C6B2C936}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 10 - Decision_Making", "Chapter 10 - Decision_Making\Chapter 10 - Decision_Making.csproj", "{A5AD1F08-E1AD-46D1-B034-857E470AED12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{729C24AB-ABE9-4FA6-9388-C451C6B2C936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{729C24AB-ABE9-4FA6-9388-C451C6B2C936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{729C24AB-ABE9-4FA6-9388-C451C6B2C936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5AD1F08-E1AD-46D1-B034-857E470AED12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AD1F08-E1AD-46D1-B034-857E470AED12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AD1F08-E1AD-46D1-B034-857E470AED12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AD1F08-E1AD-46D1-B034-857E470AED12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
