@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More_Math", "More_Math\More
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 10 - Decision_Making", "Chapter 10 - Decision_Making\Chapter 10 - Decision_Making.csproj", "{A5AD1F08-E1AD-46D1-B034-857E470AED12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 11 - Switch_Statements", "Chapter 11 - Switch_Statements\Chapter 11 - Switch_Statements.csproj", "{1909840E-E28F-4510-980A-CBD54E010FCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A5AD1F08-E1AD-46D1-B034-857E470AED12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5AD1F08-E1AD-46D1-B034-857E470AED12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5AD1F08-E1AD-46D1-B034-857E470AED12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1909840E-E28F-4510-980A-CBD54E010FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1909840E-E28F-4510-980A-CBD54E010FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1909840E-E28F-4510-980A-CBD54E010FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1909840E-E28F-4510-980A-CBD54E010FCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
