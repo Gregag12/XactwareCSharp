@@ -96,7 +96,7 @@ namespace Chapter_10___Decision_Making
         }
         static void playGame()
         {
-            Console.WriteLine("\nPick two numbers, either positive or negative and I'll you if you multiply them together what the product will be.\n\nThe answer will be positive or negative, not the actual product.");
+            Console.WriteLine("\nPick two numbers, either positive or negative.\n\nI'll tell you if when you multiply them together what the sign the product will have.\n\nThe answer will be positive, negative, or some other 3rd option...not the actual product.");
 
             Console.WriteLine("\nWhat is your first number?");
             string inputFirstNumber = Console.ReadLine();
@@ -112,16 +112,16 @@ namespace Chapter_10___Decision_Making
                 else if (secondNumber > 0)
                     Console.WriteLine($"\nThe product of {firstNumber} and {secondNumber} would be negative");
                 else
-                    Console.WriteLine($"\nThe product of {firstNumber} and {secondNumber} would be zero");
+                    Console.WriteLine($"\nThe product of {firstNumber} and {secondNumber} would be zero --- Which is neither positive or negative");
             else if (firstNumber > 0)
                 if (secondNumber < 0)
                     Console.WriteLine($"\nThe product of {firstNumber} and {secondNumber} would be negative");
                 else if (secondNumber > 0)
                     Console.WriteLine($"\nThe product of {firstNumber} and {secondNumber} would be positive");
                 else
-                    Console.WriteLine("\nThe product would be zero");
+                    Console.WriteLine("\nThe product would be zero --- Which is neither positive or negative");
             else
-                Console.WriteLine("\nThe product would be zero");
+                Console.WriteLine("\nThe product would be zero --- Which is neither positive or negative");
 
 
             Console.WriteLine("\n\nWant to try it some more?\nYes or No?");
