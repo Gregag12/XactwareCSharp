@@ -7,7 +7,7 @@
     <ProjectGuid>{1909840E-E28F-4510-980A-CBD54E010FCA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Chapter_11___Switch_Statements</RootNamespace>
-    <AssemblyName>Chapter_11___Switch_Statements</AssemblyName>
+    <AssemblyName>Chapter 11 - Switch_Statements</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
