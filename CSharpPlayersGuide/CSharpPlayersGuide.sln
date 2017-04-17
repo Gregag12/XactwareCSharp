@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 10 - Decision_Makin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 11 - Switch_Statements", "Chapter 11 - Switch_Statements\Chapter 11 - Switch_Statements.csproj", "{1909840E-E28F-4510-980A-CBD54E010FCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 12 - Looping", "Chapter 12 - Looping\Chapter 12 - Looping.csproj", "{216A43FA-041B-42B1-92C2-75F93C6160F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1909840E-E28F-4510-980A-CBD54E010FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1909840E-E28F-4510-980A-CBD54E010FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1909840E-E28F-4510-980A-CBD54E010FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216A43FA-041B-42B1-92C2-75F93C6160F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216A43FA-041B-42B1-92C2-75F93C6160F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216A43FA-041B-42B1-92C2-75F93C6160F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216A43FA-041B-42B1-92C2-75F93C6160F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

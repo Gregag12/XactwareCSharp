@@ -15,12 +15,9 @@ namespace Chapter_11___Switch_Statements
             double firstNumber = firstNumberChoice();
             string operationInput = chosenOperator();
             double secondNumber = secondNumberChoice();
-
-            //calculatorMath(operationInput, firstNumber, secondNumber);
-
-            // Console.WriteLine(calculatorMath(operationInput, firstNumber, secondNumber));
+                        
             calculatorMath(operationInput, firstNumber, secondNumber);
-            //string continueUsingCalculator = "Yes";
+            
             Console.WriteLine("\nWould you like to contine?\nPlease enter Yes or No");
             string continueUsingCalculator = Console.ReadLine();
 
@@ -89,10 +86,6 @@ namespace Chapter_11___Switch_Statements
             }
             Console.WriteLine($"The answer is {result}");
             return result;
-        }
-        
-            
-         
-
+        }          
     }
 }
